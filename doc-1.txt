@@ -1,1 +1,4 @@
 some text
+
+
+file was changed by another developer
